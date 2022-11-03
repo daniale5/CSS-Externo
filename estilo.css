@@ -1,0 +1,37 @@
+#square {
+	width: 100px; /* largura  */
+	height: 100px; /* altura  */
+	border-style: dotted; /* estilo da borda: solid, etc  */
+	border-width: 2px; /* largura da borda */
+	border-color: purple; /* cor da borda */
+
+	background-color: lavender; /* cor de fundo */
+
+/*          top  rigth bottom left */
+	margin: 100px 150px 10px 180px;
+
+/* margin com um valor atribui um único valor igual para todos */
+/* margin-right controla a margem da direita */
+/* margin-left controla a margem  da esquerda*/
+/* margin-top controla a margem entre o quadrado e o elemento acima */ 
+/* margin-bottom controla a margem entre o quadrado e o elemento abaixo*/
+
+	padding-top: 70px;
+	padding-right: ;
+	padding-bottom: ;
+	padding-left: ;
+
+
+}
+
+#circle {
+	width: 200px;
+	height: 200px;
+
+	border: solid 7px plum;
+	border-radius: 170px;
+
+	text-align: center;
+
+
+}
