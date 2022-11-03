@@ -1,6 +1,6 @@
 #square {
-	width: 100px; /* largura  */
-	height: 100px; /* altura  */
+	width: auto; /* largura  */
+	height: auto; /* altura  */
 	border-style: dotted; /* estilo da borda: solid, etc  */
 	border-width: 2px; /* largura da borda */
 	border-color: purple; /* cor da borda */
@@ -16,11 +16,15 @@
 /* margin-top controla a margem entre o quadrado e o elemento acima */ 
 /* margin-bottom controla a margem entre o quadrado e o elemento abaixo*/
 
-	padding-top: 70px;
-	padding-right: ;
-	padding-bottom: ;
-	padding-left: ;
+	padding-top: 40px;
+	padding-right: 60px;
+	padding-bottom: 30px;
+	padding-left: 40px;
 
+/* padding: 100px; -> todos os valores de uma vez */
+/* padding: 40px 60px 30px 40px */
+
+text-align: center;
 
 }
 
